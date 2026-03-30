@@ -13,13 +13,12 @@ A real-time hand gesture detection project built using Python, OpenCV, and Media
 -OpenCV
 -MediaPipe
 -NumPy
--CVZone (optional)
 
 # Installation
 - git clone https://github.com/alfiyaprofessional-016/Hand-Gesture-Recognition.git
 - cd Hand-Gesture
 
 # Contact
-Name: Alfiya Mulla
+Developed By : Alfiya Mulla
 LinkedIn: www.linkedin.com/in/alfiya-mulla-b84394398
 Email: alfiya.professional@gmail.com
